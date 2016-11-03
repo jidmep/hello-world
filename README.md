@@ -2,4 +2,4 @@
 Me learning how to use Github
 
 ----body text---
-sonthing to add
+something to add
